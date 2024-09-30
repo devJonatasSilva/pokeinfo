@@ -31,3 +31,76 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Maven target directory
+/target/
+
+# Eclipse specific files
+.classpath
+.project
+.settings/
+*.launch
+
+# Eclipse working directory settings
+.metadata/
+recommenders/
+.remote/
+.externalToolBuilders/
+org.eclipse.wst.server.core/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA specific files
+.idea/
+*.iws
+*.ipr
+*.iml
+
+# Java specific files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.tar
+*.gz
+*.hprof
+*.jfr
+
+# Temporary files
+*~
+*.tmp
+*.bak
+*.swp
+*.swo
+*.orig
+
+# Vim swap files
+*.swp
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Windows specific files
+desktop.ini
+$RECYCLE.BIN/
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Miscellaneous
+*.log
+*.out
+*.bak
+
